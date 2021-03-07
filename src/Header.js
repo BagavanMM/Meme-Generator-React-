@@ -4,8 +4,8 @@ function Header() {
     return (
         <header>
             <img 
-                src="http://www.pngall.com/wp-content/uploads/2016/05/Trollface.png" 
-                alt="Problem?"
+                src="https://i.imgur.com/jWr67J8.png?1" 
+                alt="Troll Face Failed to Load :("
             />
             <p>Meme Generator</p>
         </header>
